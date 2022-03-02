@@ -22,6 +22,20 @@ body {
   transform: translate(-50%, -50%);
 }
 
+@media screen and (max-width: 600px) {
+  #wname {
+    font-size: 50px;
+    bottom: 210px;
+  }
+}
+
+@media screen and (max-width: 924px) {
+  #wname {
+    font-size: 50px;
+    bottom: 210px;
+  }
+}
+
 /*About*/
 
 #About {
@@ -54,6 +68,16 @@ body {
   padding-right: 20px;
 }
 
+@media screen and (max-width: 600px) {
+  #About img {
+    width: 300px;
+    height: 200px;
+    border-radius: 40px;
+    float: none;
+    margin-left: 105px;
+  }
+}
+
 /*Clubs-Socities*/
 #Clubs-Socities {
   background-color: white;
@@ -83,6 +107,16 @@ body {
   float: right;
   border-radius: 50px;
   padding-left: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  #Clubs-Socities img {
+    width: 300px;
+    height: 200px;
+    border-radius: 40px;
+    float: none;
+    margin-left: 165px;
+  }
 }
 
 #Contact {
@@ -120,4 +154,129 @@ body {
   color: white;
   cursor: pointer;
   padding: 15px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.6s;
+  padding: 2px 100px;
+  z-index: 100000;
+}
+
+header .slogo img {
+  position: relative;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: 0.6s;
+  width: 70px;
+  height: 100px;
+  animation: logoanim1 1s forwards;
+}
+@keyframes logoanim1 {
+  from {
+    top: -100%;
+  }
+  to {
+    left: 0;
+  }
+}
+header ul {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header ul li {
+  position: relative;
+  list-style: none;
+}
+
+header ul li a {
+  position: relative;
+  margin: 0 15px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  letter-spacing: 2px;
+  font-weight: 500px;
+  transition: 0.6s;
+}
+
+header.sticky {
+  padding: 5px 100px;
+  background: rgba(255, 255, 255, 0.137);
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: url(Images/Royal_College_Colombo_main_building.jpg);
+  background-size: cover;
+}
+
+header.sticky .slogo,
+header.sticky ul li a {
+  color: rgb(0, 0, 0);
+}
+
+/*Drop down*/
+
+.dropbtn {
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
