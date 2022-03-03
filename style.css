@@ -158,19 +158,6 @@ body {
   padding: 15px;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
-
-body {
-  min-height: 100vh;
-}
-
 header {
   position: fixed;
   top: 0;
@@ -236,7 +223,7 @@ header.sticky {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: url(Images/Royal_College_Colombo_main_building.jpg);
+  background: url(Images/Royal\ college\ welcome\ image.jpg);
   background-size: cover;
 }
 
