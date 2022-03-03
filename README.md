@@ -8,3 +8,11 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 2. **mobile**
 
 3. **app**
+
+# How to run the website
+
+1. Download the folder and run main.html in website direcotry from your web browser
+
+# How to deploy to heroku
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
