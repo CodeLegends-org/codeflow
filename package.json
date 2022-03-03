@@ -1,4 +1,9 @@
 {
+  "name": "codeflow",
+  "version": "0.0.0.1",
+  "description": "Our codeflow solutions",
+  "author": "srimethan, shasvinthsrikanth",
+  },
   "dependencies": {
     "bootstrap-icons": "^1.8.1"
   }
