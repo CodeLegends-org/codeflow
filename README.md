@@ -5,7 +5,7 @@
 
 1.**Mobile Compatability**
 
-![Home Page](Preveiw files/Home Page.png)
+![Home Page](/Preveiw files/Home Page.png)
 
 codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSrikanth](https://github.com/shasvinthsrikanth)
 
