@@ -11,7 +11,6 @@ body {
   min-height: 100vh;
 }
 
-
 #wname {
   color: #fff;
   font-size: 130px;
@@ -47,8 +46,8 @@ body {
 #About h1 {
   text-align: center;
   color: rgb(230, 230, 0);
-  padding-top: 30px; 
-  animation: anim1 ;
+  padding-top: 30px;
+  animation: anim1;
 }
 
 #About p {
@@ -163,12 +162,12 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   transition: 0.6s;
   padding: 2px 100px;
   z-index: 100000;
+  display: none;
 }
 
 header .slogo img {
@@ -182,14 +181,29 @@ header .slogo img {
   transition: 0.6s;
   width: 70px;
   height: 100px;
-  animation: logoanim1 1s forwards;
+}
+
+header .slogo img:hover {
+  position: relative;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: 0.6s;
+  width: 70px;
+  height: 100px;
+  animation: logoanim1 infinite;
 }
 @keyframes logoanim1 {
   from {
-    top: -100%;
+    width: 70px;
+    height: 100px;
   }
   to {
-    left: 0;
+    width: 80px;
+    height: 200px;
   }
 }
 header ul {
@@ -270,3 +284,15 @@ header.sticky ul li a {
   display: block;
 }
 
+#preloader {
+  background: #000 url(Images/RC-Crest_thumb[3].gif) no-repeat center center;
+  background-size: 15%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+.hidden {
+  display: none;
+}
