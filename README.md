@@ -2,11 +2,13 @@
 [![Node.js CI](https://github.com/CodeLegends-org/codeflow/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/CodeLegends-org/codeflow/actions/workflows/node.js.yml)
 
 ![Home Page](/Preveiw-files/Homepage.png)
-![Welcome loader](/Preveiw-files/welcome Loader 1.png)
+![Welcome loader](/Preveiw-files/welcomeLoader1.png)
+![Welcome loader](/Preveiw-files/welcomeLoader2.png)
 
 # Features
 
 1.**Mobile Compatability**
+2.**Welcome UI**
 
 codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSrikanth](https://github.com/shasvinthsrikanth)
 
