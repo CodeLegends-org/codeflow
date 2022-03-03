@@ -3,7 +3,7 @@
 
 #Features
 
-1.**Mobile COmpatability**
+1.**Mobile Compatability**
 
 ![Home Page](/images/homepage.png)
 
