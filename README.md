@@ -5,7 +5,7 @@
 
 1.**Mobile Compatability**
 
-![Home Page](/images/homepage.png)
+![Home Page](Home Page.png)
 
 codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSrikanth](https://github.com/shasvinthsrikanth)
 
