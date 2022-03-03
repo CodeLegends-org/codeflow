@@ -3,6 +3,10 @@
   "version": "1.2.3",
   "description": "Our codeflow solutions",
   "author": "codelegends",
+  "main": "navbar.js",
+  "scripts": {
+    "start": "navbar.js"
+  },  
   "dependencies": {
     "bootstrap-icons": "^1.8.1"
   }
