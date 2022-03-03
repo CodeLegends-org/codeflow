@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="navbar.js"></script>
+    <title>Royal College</title>
+  </head>
+  <body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        fill="currentColor"
+        class="bi bi-arrow-up-square-fill"
+        viewBox="0 0 16 16"
+      >
+        <path
+          d="M2 16a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2zm6.5-4.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 1 0z"
+        />
+      </svg>
+    </button>
+
+    <header>
+      <a href="#" class="slogo"><img src="Images/RC-Crest.png" /></a>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#About">About</a></li>
+        <div class="dropdown">
+          <li>
+            <a href="#Clubs-Socities" class="dropbtn">Clubs & Societies</a>
+          </li>
+          <div class="dropdown-content">
+            <a href="https://www.rccsonline.com/">RCCS</a>
+            <a
+              href="https://royalcollege.lk/clubs-and-societies/young-inventors-club/"
+              >RCYIC</a
+            >
+            <a href="https://www.royalcollegeastronomy.com/">RCAS</a>
+            <a
+              href="https://royalcollege.lk/clubs-and-societies/mathematics-club/"
+              >RCMS</a
+            >
+          </div>
+        </div>
+        <li><a href="Royal College Shop/shop.html">Shop</a></li>
+        <li><a href="#Contact">Contact</a></li>
+      </ul>
+    </header>
+    <section class="banner"></section>
+    <h1 id="wname">Royal&nbsp;College</h1>
+
+    <div id="About">
+      <h1>About</h1>
+      <img src="Images/Royal_College_Colombo_main.jpg" />
+      <p>
+        Royal College is a selective entry boys school located in Colombo,
+        SriLanka. It started as a private school by Rev Joseph Marsh in 1835. It
+        was established as the Colombo Academy by Sir Robert Wilmot-Horton. in
+        January 1836, as part of the implementation of the recommendations of
+        the Colebrooke Cameron Commission (1833), and was the first government
+        run secondary school's for boys in the island.
+      </p>
+    </div>
+
+    <div id="Clubs-Socities">
+      <h1>Clubs & Socities</h1>
+      <img src="Images/Clubs-Socities.jpg" />
+      <p>
+        The Royal College celebrates the freedom given to its students to express themselves.
+        The College provides a plethora of clubs & societies to select from and the liberty to found a new community.
+        This is the birthplace of idea-driven individuals that seek to make a difference in the world.
+      </p>
+    </div>
+
+    <div id="Contact">
+      <p>Contact</p>
+      <p>Email: user@gmail.com</p>
+      <p>Phone Number: 123456789</p>
+    </div>
+  </body>
+
+  <script>
+    var mybutton = document.getElementById("myBtn");
+
+    window.onscroll = function () {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 20
+      ) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+</html>
