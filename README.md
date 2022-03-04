@@ -29,7 +29,7 @@ https://www.apachefriends.org/download.html
 wamp
 https://www.wampserver.com/en/
 
-3.Copy the sql file in the project folder.![Sql file](Database/royalcollegeuseraccounts.sql)
+3.Copy the [sql](Database/royalcollegeuseraccounts.sql) file in the project folder.
 
 
 # How to deploy to heroku
