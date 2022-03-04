@@ -32,6 +32,7 @@ https://www.wampserver.com/en/
 3.Copy the [sql](Database/royalcollegeuseraccounts.sql) file in the project folder and paste it into the localhost directory in the apache application.
 
 xampp: C:/xampp/htdocs
+
 wamp: C:/wamp/www
 
 
