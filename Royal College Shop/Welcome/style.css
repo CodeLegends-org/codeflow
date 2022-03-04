@@ -293,6 +293,11 @@ header.sticky ul li a {
   z-index: 100;
 }
 
+@media screen and (max-width: 600px) {
+  #preloader {
+    background-size: 40%;
+  }
+}
 .hidden {
   display: none;
 }
