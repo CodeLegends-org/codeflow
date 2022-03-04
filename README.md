@@ -21,6 +21,7 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 # How to run the website
 
 1. Download the project folder and run the main.html in the downloaded .zip file from your web browser.
+2. Download an Apache Server application like xampp, wampp.
 
 # How to deploy to heroku
 
