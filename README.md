@@ -26,7 +26,8 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 
 1. [Download the project folder](https://github.com/CodeLegends-org/codeflow/archive/refs/heads/main.zip) and run the main.html in the downloaded .zip file from your web browser.
  
-2. Download an Apache Server application like xampp, wamp from the links below.
+2. Download an Apache Server application like [xampp](https://www.apachefriends.org/download.html), [wamp](https://www.wampserver.com/en/)
+ from the links below.
 
 [xampp](https://www.apachefriends.org/download.html)
 
