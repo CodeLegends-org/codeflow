@@ -29,6 +29,6 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 
 3.Copy the [sql](Database/royalcollegeuseraccounts.sql) file in the project folder and paste it into the localhost directory in the apache application.
 
-# How to deploy to heroku
+# Deploy to heroku
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
