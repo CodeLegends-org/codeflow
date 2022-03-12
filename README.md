@@ -30,5 +30,18 @@
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
 
+## Supported browsers
+
+| Name              | Version | Notes                                             |
+| ----------------- | ------- | ------------------------------------------------- |
+| Chromium / Chrome | last 10 | Full support                                      |
+| Firefox           | 61+     | Full support |
+| Edge              | 91+     | Full support (reasonable support for 17+)         |
+| Opera             | 55+     | Reasonable support                                |
+| Safari            | 11.1+   | Reasonable support                                |
+
+Older browsers (including any version of Internet Explorer) will not work.
+For your own sake, please upgrade. Security and performance, think about it!
+
 # Developers
 [![GitHub contributors](https://contrib.rocks/image?repo=CodeLegends-org/codeflow)](https://github.com/CodeLegends-org/codeflow/graphs/contributors)
