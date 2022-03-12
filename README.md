@@ -43,5 +43,11 @@
 Older browsers (including any version of Internet Explorer) will not work.
 For your own sake, please upgrade. Security and performance, think about it!
 
+## License
+
+Our solution is licensed under the GNU Affero General Public License 3 or any later
+version at your choice with an exception for Highcharts. Use this same [LICENSE](https://github.com/CodeLegends-org/codeflow/blob/main/LICENSE) for
+copying.
+
 # Developers
 [![GitHub contributors](https://contrib.rocks/image?repo=CodeLegends-org/codeflow)](https://github.com/CodeLegends-org/codeflow/graphs/contributors)
