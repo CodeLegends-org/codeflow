@@ -49,5 +49,8 @@ Our solution is licensed under the GNU Affero General Public License 3 or any la
 version at your choice with an exception for Highcharts. Use this same [LICENSE](https://github.com/CodeLegends-org/codeflow/blob/main/LICENSE) for
 copying.
 
+# Credits
+**Credit's for Shasvinth for creating the website devloping it creating databses using php sql creating javascript credit's to Methan for for deploying and managing the web app of this website and for adding support to heroku, and for github and the documentation**
+
 # Developers
 [![GitHub contributors](https://contrib.rocks/image?repo=CodeLegends-org/codeflow)](https://github.com/CodeLegends-org/codeflow/graphs/contributors)
