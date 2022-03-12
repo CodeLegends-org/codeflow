@@ -29,11 +29,7 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 2. Download an Apache Server application like [xampp](https://www.apachefriends.org/download.html), [wamp](https://www.wampserver.com/en/)
  from the links below.
 
-[xampp](https://www.apachefriends.org/download.html)
-
-[wamp](https://www.wampserver.com/en/)
-
-3.Copy the [sql](Database/royalcollegeuseraccounts.sql) file in the project folder and paste it into the localhost directory in the apache application.
+3. Copy the [sql](Database/royalcollegeuseraccounts.sql) file in the project folder and paste it into the localhost directory in the apache application.
 
 # Deploy to heroku
 
