@@ -12,13 +12,6 @@
 
 2. **Welcome UI**
 
-
-1. **Website**
-
-2. **mobile**
-
-3. **app**
-
 # Our Websites
 [heroku](https://codelegends.herokuapp.com)
 
