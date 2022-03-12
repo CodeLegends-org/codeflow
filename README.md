@@ -50,7 +50,9 @@ version at your choice with an exception for Highcharts. Use this same [LICENSE]
 copying.
 
 # Credits
-**Credit's for Shasvinth for creating the website devloping it creating databses using php sql creating javascript credit's to Methan for for deploying and managing the web app of this website and for adding support to heroku, and for github and the documentation**
+1. **Credit's for Shasvinth for creating the website devloping it creating databses using php sql creating javascript.**
+
+2. **Credit's to Methan for for deploying and managing the web app of this website and for adding support to heroku, and for github and the documentation**
 
 # Developers
 [![GitHub contributors](https://contrib.rocks/image?repo=CodeLegends-org/codeflow)](https://github.com/CodeLegends-org/codeflow/graphs/contributors)
