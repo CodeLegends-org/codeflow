@@ -24,7 +24,7 @@ codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSr
 
 # How to run the website
 
-1. Download the project folder and run the main.html in the downloaded .zip file from your web browser.
+1. [Download the project folder](https://github.com/CodeLegends-org/codeflow/archive/refs/heads/main.zip) and run the main.html in the downloaded .zip file from your web browser.
  
 2. Download an Apache Server application like xampp, wamp from the links below.
 
