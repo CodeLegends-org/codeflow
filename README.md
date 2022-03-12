@@ -13,9 +13,9 @@
 2. **Welcome UI**
 
 # Our Websites
-[heroku](https://codelegends.herokuapp.com)
+1. [heroku](https://codelegends.herokuapp.com)
 
-[github](https://codelegends-org.github.io/codeflow)
+2. [github](https://codelegends-org.github.io/codeflow)
 
 # How to run the website
 
