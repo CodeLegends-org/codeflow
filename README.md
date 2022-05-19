@@ -4,7 +4,7 @@
 
 ![Welcome loader](Images/RC-Crest_thumb[3].gif)
 
-# codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSrikanth](https://github.com/shasvinthsrikanth)
+# codeflow solutions of [SriMethan](https://github.com/srimethan) and [ShasvinthSrikanth](https://ShasvinthSrikanth.epizy.com)
 
 # Features
 
