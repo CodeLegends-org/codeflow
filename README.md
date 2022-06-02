@@ -35,8 +35,8 @@
 | Name              | Version | Notes                                             |
 | ----------------- | ------- | ------------------------------------------------- |
 | Chromium / Chrome | last 10 | Full support                                      |
-| Firefox           | 61+     | Full support |
-| Edge              | 91+     | Full support (reasonable support for 17+)         |
+| Firefox           | 61+     | Full support                                      |
+| Edge              | 91+     | Full support                                      |
 | Opera             | 55+     | Reasonable support                                |
 | Safari            | 11.1+   | Reasonable support                                |
 
