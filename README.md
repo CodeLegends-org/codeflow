@@ -52,7 +52,7 @@ copying.
 # Credits
 1. Credits for [Shasvinth](https://github.com/shasvinthsrikanth) for creating the website devloping it creating databses using php sql creating javascript.
 
-2. Credits to [Methan](https://github.com/srimethan) for for deploying and managing the web app of this website and for adding support to heroku, and for github and the documentation
+2. Credits to [Methan](https://github.com/srimethan) for for deploying and managing the web app of this website and for adding support to heroku, and for github and the documentatio
 
 # Developers
 [![GitHub contributors](https://contrib.rocks/image?repo=CodeLegends-org/codeflow)](https://github.com/CodeLegends-org/codeflow/graphs/contributors)
